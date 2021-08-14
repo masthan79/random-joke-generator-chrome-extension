@@ -1,0 +1,13 @@
+{
+    "name" : "Random Joke Generator",
+    "version" : "0.01",
+    "description": "Random Joke Generator",
+    "icons" : {
+        "128" : "laughing.png"
+    },
+    "browser_action" : {
+        "default_title": "Random Joke Generator",
+        "default_popup": "index.html"
+    },
+    "manifest_version" : 2
+}
